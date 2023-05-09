@@ -1,0 +1,29 @@
+Ovaj program je jednostavan kalkulator koji podržava četiri osnovne aritmetičke operacije: zbrajanje, oduzimanje, množenje i dijeljenje.
+
+Testiranje zbrajanja dva pozitivna broja:
+Ulaz: 3+4
+Izlaz: 7
+
+Testiranje oduzimanja dva pozitivna broja:
+Ulaz: 7-4
+Izlaz: 3
+
+Testiranje množenja dva pozitivna broja:
+Ulaz: 3*4
+Izlaz: 12
+
+Testiranje dijeljenja dva pozitivna broja:
+Ulaz: 12/4
+Izlaz: 3
+
+Testiranje izraza sa više operacija (provjera prioriteta operacija):
+Ulaz: 10+5*4+3
+Izlaz: 33
+
+Testiranje negativnih brojeva:
+Ulaz: -2+4
+Izlaz: 2
+
+Testiranje dijeljenja sa nulom:
+Ulaz: 4/0
+Izlaz: Error
